@@ -12,7 +12,7 @@ El código fuente de esta demostración interactiva está alojado en un reposito
 ## Sintaxis
 
 ```
-arr.slice([inicio [, fin]])
+arr.slice([inicio, fin]])
 ```
 
 ## Parámetros
